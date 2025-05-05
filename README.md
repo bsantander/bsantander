@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Mi nombre es Bastian
+
+## Habilidades
+
+## Contacto
+
+* [X (Ex Twitter)](https://x.com/BastiSantander)
+* [Discord]()
 <!--
 **bsantander/bsantander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
