@@ -6,7 +6,7 @@ Mi nombre es Bastian
 
 ## Contacto
 
-* [X (Ex Twitter)](https://x.com/BastiSantander)
+* [X (Ex Twitter)]()
 * [Discord]()
 <!--
 **bsantander/bsantander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
